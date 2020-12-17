@@ -119,6 +119,10 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
+.cen {
+  text-align: center;
+}
+
 ul.button-list {
   padding: 0;
   text-align: center;
@@ -176,6 +180,9 @@ a.facebook {
 }
 a.twitter {
   background-image: url(images/twitter-logo-svg-vector.svg);
+}
+a.instagram {
+  background-image: url(images/029-instagram.svg);
 }
 a.linkedin {
   background-image: url(images/Linkedin_icon.svg);
